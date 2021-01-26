@@ -1,1 +1,2 @@
-# HUSD-LavaRewards-audit-report
+# Smart Contract Audit Report for HUSD Lava Rewards Audit Report
+
